@@ -2,7 +2,7 @@ const gulp = require('gulp')
 const path = require('path')
 const fileinclude = require('gulp-file-include');
 const livereload = require('gulp-livereload');
-const connect = require('gulp-connect');
+// const connect = require('gulp-connect');
 
 module.exports = function () {
     console.log('html change')

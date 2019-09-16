@@ -1,1 +1,1 @@
-var test="test";function Test(t){return`The name is ${t} ...ccc`}
+var test="test";function Test(t){return`The name is ${t} ...ccc`}document.write("111");
